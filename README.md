@@ -12,3 +12,7 @@
 ## macOS
 安装[MacTeX](http://www.tug.org/mactex/)，编辑器可以选择vscode，注意设置vscode的编译流程需要进行两遍XeLaTeX编译
 macOS或windows都推荐使用[overleaf](https://www.overleaf.com/)进行在线编辑
+
+## A little problem
+参考文献，附录在word模板中要求顶格，但在修改中未能实现，等一个有缘人实现。
+我是在输出pdf后，通过PDF Expert/Adobe acrobat，编辑pdf实现顶格。（供参考）
